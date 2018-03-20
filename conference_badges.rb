@@ -29,3 +29,4 @@ def printer(names)
   badges.each {|name| puts name}
 
   rooms.each { |room| puts room }
+end
